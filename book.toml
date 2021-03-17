@@ -1,0 +1,11 @@
+[book]
+authors = ["Jonathan Johnson"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Cosmic Verge Development Nursery"
+
+[output.html]
+
+[output.linkcheck]
+follow-web-links = true
