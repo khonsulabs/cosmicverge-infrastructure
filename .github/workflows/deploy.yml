@@ -32,7 +32,7 @@ jobs:
         if: github.ref == 'refs/heads/main'
         with:
           branch: gh-pages
-          folder: book/
+          folder: book/html/
           git-config-name: kl-botsu
           git-config-email: botsu@khonsulabs.com
           target-folder: /
