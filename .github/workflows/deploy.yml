@@ -35,5 +35,5 @@ jobs:
           folder: book/
           git-config-name: kl-botsu
           git-config-email: botsu@khonsulabs.com
-          target-folder: nursery/
+          target-folder: /
           clean: true
