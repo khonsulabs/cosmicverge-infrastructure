@@ -8,4 +8,4 @@ title = "Cosmic Verge Development Nursery"
 [output.html]
 
 [output.linkcheck]
-follow-web-links = true
+follow-web-links = false
