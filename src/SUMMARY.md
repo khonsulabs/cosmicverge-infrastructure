@@ -14,6 +14,7 @@
 # Design
 
 - [Design Pillars](./design/pillars.md)
+- [Initial Gameplay Thoughts](./design/gameplay-thoughts.md)
 
 # The Universe
 
